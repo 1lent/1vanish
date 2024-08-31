@@ -1,0 +1,4 @@
+name: Lvanish
+version: '1.0'
+main: com.lent.Lvanish.Main
+api-version: '1.20'
